@@ -1,0 +1,29 @@
+.postsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.postsContainer {
+  margin-right: 20px;
+  margin-bottom: 15px;
+  height: 400px;
+  width: 350px;
+  margin-top: 10px;
+  object-fit: contain;
+}
+.postImage {
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+.postImageMax {
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  overflow: hidden;
+}

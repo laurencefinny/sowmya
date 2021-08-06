@@ -1,0 +1,10 @@
+.header {
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background-color: black;
+}
+.img-header {
+  margin-top: 20px;
+  height: 20vh;
+}
